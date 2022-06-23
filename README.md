@@ -26,7 +26,7 @@ Statistical analysis of a new car model to assess the products MPG and suspensio
 ![Screen Shot 2022-06-23 at 2 57 09 AM](https://user-images.githubusercontent.com/96406929/175277863-eb2b48fa-89b4-4c39-8a05-fe0f9894cb5d.png)
 * In lot 2 we see a p-value of .6, therefore, we do not have sufficient evidence to reject the null hypothesis, and the two means are statistically similar
 
-file:///Users/jonathanmoreno/Desktop/Screen%20Shot%202022-06-23%20at%202.58.08%20AM.png
+![Screen Shot 2022-06-23 at 2 58 08 AM](https://user-images.githubusercontent.com/96406929/175281596-913b39d0-e37e-42ed-b8a0-72c7096ebd09.png)
 * In lot 3 we see a p-value of .04, therefore, we do have sufficient evidence to reject the null hypothesis, and the two means are not statistically similar
 
 ## Study Design: MechaCar vs Competition
